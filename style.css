@@ -5,3 +5,9 @@ body {
 .jam {
     font-size: 100px;
 }
+
+.line {
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+}
